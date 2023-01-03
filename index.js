@@ -1,0 +1,1 @@
+consolle("hello orld");
